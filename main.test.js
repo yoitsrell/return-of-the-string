@@ -11,9 +11,10 @@ const {
 
 
 describe('capitalize', () => {
-  test('returns upper cased version of string', () => {
+  test('returns upper cased version of a string', () => {
     expect(capitalize('Speed Racer Was Great'))
-      .toBe('SPEED RACER WAS GREAT');  });
+      .toBe('SPEED RACER WAS GREAT');
+    });
 });
 
 describe('exclaim', () => {
@@ -57,9 +58,6 @@ describe('twoCharacters', () => {
     expect(twoCharacters('I want a bagel!', 2, 11)).toBe('wg')
   })
 
-  test('returns the same character twice if given the same index twice', () => {
-
-  })
 })
 
 describe('initials', () => {
@@ -77,7 +75,7 @@ describe('initials', () => {
 })
 
 describe('yeller', () => {
-  test('adds three initials and capitalizes', () => {
+  test('adds three exclamation points and capitalizes', () => {
     expect(yeller('hey')).toBe('HEY!!!');
   })
 })
