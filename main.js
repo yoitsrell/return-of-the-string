@@ -1,25 +1,46 @@
-function capitalize() {
+/*******************
+ * YOUR CODE HERE! *
+ *******************/
+
+
+
+
+ 
+
+/********************************************************************
+ * THIS CODE IS FOR INTERNAL USE ONLY. DON'T CHANGE ANYTHING BELOW! *
+ ********************************************************************/
+
+if (typeof capitalize === 'undefined') {
+  capitalize = undefined;
 }
 
-function exclaim() {
+if (typeof exclaim === 'undefined') {
+  exclaim = undefined;
 }
 
-function firstCharacter() {
+if (typeof firstCharacter === 'undefined') {
+  firstCharacter = undefined;
 }
 
-function lastCharacter() {
+if (typeof lastCharacter === 'undefined') {
+  lastCharacter = undefined;
 }
 
-function oneCharacter() {
+if (typeof oneCharacter === 'undefined') {
+  oneCharacter = undefined;
 }
 
-function twoCharacters() {
+if (typeof twoCharacters === 'undefined') {
+  twoCharacters = undefined;
 }
 
-function initials() {
+if (typeof initials === 'undefined') {
+  initials = undefined;
 }
 
-function yeller() {
+if (typeof yeller === 'undefined') {
+  yeller = undefined;
 }
 
 
