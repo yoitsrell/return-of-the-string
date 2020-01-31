@@ -5,7 +5,7 @@
 
 
 
- 
+
 
 /********************************************************************
  * THIS CODE IS FOR INTERNAL USE ONLY. DON'T CHANGE ANYTHING BELOW! *
@@ -51,6 +51,6 @@ module.exports = {
   lastCharacter,
   oneCharacter,
   twoCharacters,
-  initials,
   yeller,
+  initials,
 };
