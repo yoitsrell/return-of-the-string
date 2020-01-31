@@ -1,4 +1,4 @@
-# The Function Returns
+# Return Of The String
 
 ### Setup
 
@@ -16,7 +16,6 @@
 
 
 ### Functions to Write:
-
 
 * `capitalize` - it takes in a parameter of type String and returns a modified version of where every character has been capitalized. Hint: there's a method for that!
 * `exclaim` - it takes in a parameter of type String and returns a version where an exclamation point has been added to the end.
