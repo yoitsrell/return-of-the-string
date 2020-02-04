@@ -1,12 +1,37 @@
 /*******************
  * YOUR CODE HERE! *
  *******************/
+function capitalize(one) {
+  return one.toUpperCase()
+}
 
+function exclaim (two) {
+  return two + '!'
+}
 
+function firstCharacter (three) {
+  return three[0]
+}
 
+function lastCharacter (four) {
+  return four[four.length-1]
+}
 
+function oneCharacter(five){
+  return five[1]
+}
 
+function twoCharacters(six, i2, i3) {
+  return six[i2] +six[i3]
+}
 
+function yeller(seven) {
+  return seven.toUpperCase() + '!!!'
+}
+
+function initials(eight) {
+  return eight[0] + '.' + eight[0] + '.'
+}
 /********************************************************************
  * THIS CODE IS FOR INTERNAL USE ONLY. DON'T CHANGE ANYTHING BELOW! *
  ********************************************************************/
